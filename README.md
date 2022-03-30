@@ -5,7 +5,7 @@ Dataset yang digunakan berisi transaksi dari tahun 2009 sampai dengan tahun 2012
 
 Adapun dataset yang akan digunakan pada project ini berisi data sebagai berikut.
 
-order_id              : berisi id dari setiap order
+order_id              : berisi id dari setiap order \n
 order_Status          : berisi infomasi mengenai status dari tiap-tiap order (finished, returned dan cancelled)
 customer              : berisi nama customer yang mengorder
 order_date            : tanggal customer melakukan order
